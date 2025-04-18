@@ -1,4 +1,4 @@
-Here’s your updated and polished **README-style walkthrough** with an **Author section**, optional enhancements, and a final touch of clarity for readers and contributors.
+
 
 ---
 
@@ -238,7 +238,6 @@ for (int y = 0; y < size; y++) {
 **Yagnik N. Patel**  
 📧 [yagnikptl22@gmail.com](mailto:yagnikptl22@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/yagnik-n-patel)  
-🧭 *Explorer | ICT Engineer | C++ & DSA Enthusiast | Photographer*
 
 ---
 
